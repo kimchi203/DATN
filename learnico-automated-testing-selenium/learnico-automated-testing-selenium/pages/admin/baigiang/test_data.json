@@ -1,0 +1,103 @@
+{
+  "danhmucbaigiang": {
+    "themfull": {
+      "ten": "Danh mục test 2",
+      "capcha": "Vật lý",
+      "mota": "Mô tả danh mục test 2"
+    },
+    "suafull": {
+      "ten": "Danh mục test sửa 2",
+      "mota": "Mô tả danh mục test sửa"
+    },
+    "thembatbuoc": {
+      "ten": "Danh mục test"
+    },
+    "suabatbuoc": {
+      "ten": "Danh mục test sửa"
+    },
+    "fail": {
+      "ten": "Vật lý"
+    }
+  },
+  "loaibaigiang": {
+    "add": {
+      "ten": "Loại bài giảng test",
+      "mota": "Mô tả loại bài giảng test"
+    },
+    "edit": {
+      "ten": "Loại bài giảng test sửa",
+      "mota": "Mô tả loại bài giảng test sửa"
+    },
+    "addbb": {
+      "ten": "Loại bài giảng test 2"
+    },
+    "editbb": {
+      "ten": "Loại bài giảng test sửa 2"
+    },
+    "fail": {
+      "ten": "Video"
+    }
+  },
+  "quanlybaigiang": {
+    "add": {
+      "tenbg": "Selenium",
+      "mota": "Kiểm thử tự động",
+      "gio" : "2",
+      "phut": "20",
+      "giay": "30"
+    },
+    "edit": {
+      "tenbg": "Kiểm thử phần mềm",
+      "lbg": "video",
+      "gio" : "5",
+      "phut": "10",
+      "giay": "30",
+      "dmbg": "Vật lý",
+      "mota": "Kiểm thử"
+    },
+    "addbb": {
+      "tenbg": "Selenium webdriver",
+      "dmbg" : "Vậy lý",
+      "lbg": "Video"
+    },
+    "suabb": {
+      "tenbg": "Edit Selenium webdriver bắt buộc",
+      "dmbg" : "Tài liệu toán",
+      "lbg": "Audio"
+    },
+    "addvd": {
+      "tenbg": "Selenium webdriver video",
+      "dmbg" : "Vậy lý",
+      "lbg": "Video"
+
+    },
+    "editvd": {
+      "tenbg": "Edit Selenium webdriver video"
+    },
+    "addaudio": {
+      "tenbg": "Selenium webdriver audio",
+      "dmbg" : "Vậy lý",
+      "lbg": "Audio"
+    },
+    "editaudio": {
+      "tenbg": "Edit Selenium webdriver audio"
+    },
+    "addtrung": {
+      "tenbg": "Căn bản về C++"
+    }
+  },
+  "login": {
+    "pass": {
+      "username": "admin",
+      "password": "123456"
+    },
+    "fail": {
+      "username": "user",
+      "password": "1234567"
+    },
+    "chuakichhoat": {
+      "username": "Chi",
+      "password": "123456"
+    }
+  }
+}
